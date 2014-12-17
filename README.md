@@ -1,4 +1,3 @@
-rsync_nimodm.pl
+Some scripts for IBM AIX/PowerVM/GPFS
 ===============
 
-synchronize NIM object definition from the NIM Master server to the NIM alternate Master server
